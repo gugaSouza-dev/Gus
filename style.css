@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --orchild: #9932CC;
+}
+
+.container {
+    height: 100vh;
+    width: 100vw;
+    background-color: cadetblue;
+}
+
+.guitar{
+    /* height: 100px; */
+}
